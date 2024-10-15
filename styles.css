@@ -7,6 +7,9 @@ h1 {
     text-align: center;
     color: #121212;
 }
+.imageDiv{
+    display: flex;
+}
 img {
     width: 380px;
     border: 3px solid #121212;
